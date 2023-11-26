@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Redmi 7 / Redmi Y3",
+      "brand": "Xiaomi",
+      "codename": "onclite",
+      "supported_versions": [
+         {
+            "version_code": "13",
+            "xda_thread": " ",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_onclite",
+         "kernel_xiaomi_onclite",
+         "vendor_xiaomi_onclite",
+      ]
+   }
+]

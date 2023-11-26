@@ -1,0 +1,46 @@
+name: Device maintainer form
+description: Apply to be a maintainer at CraftRom here
+title: New maintainer
+assignees: [melles1991]
+body:
+  - attributes:
+      label: Device you want to apply for
+      description: "Example: Redmi 7 (onclite)"
+      placeholder: Redmi 7 (onclite)
+    type: input
+    validations:
+      required: true
+  - attributes:
+      description: One URL per line
+      label: Device Tree Sources
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      label: Number of ROM's you maintain officially
+    type: input
+    validations:
+      required: true
+  - attributes:
+      label: Any Exceptions/special concern?
+    type: textarea
+    validations:
+      required: true
+  - attributes:
+      label: Telegram username
+    type: input
+    validations:
+      required: true
+  - attributes:
+      label: GitHub username
+    type: input
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms and rules
+      description: By submitting this issue, you agree to follow our [Terms and rules](https://www.craft-rom.pp.ua/legal/)
+      options:
+        - label: I agree to follow this project's Terms and rules
+          required: true

@@ -1,0 +1,21 @@
+{
+   "name": "Dmytro Halytskyi",
+   "country": "UA",
+   "github_username": "mrshterben",
+   "xda_url": "https://xdaforums.com/m/melles-android.7269091/",
+   "devices": [
+      {
+         "codename": "onclite",
+         "versions": [
+            "13"
+         ]
+      },
+      {
+         "codename": "mi439",
+         "versions": [
+            "13"
+         ]
+      }
+   ],
+   "ci_username": " "
+}
