@@ -17,6 +17,22 @@
          "vendor_xiaomi_onclite",
       ]
    },
+      {
+      "name": "Redmi 8",
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "supported_versions": [
+         {
+            "version_code": "thrall",
+            "xda_thread": " ",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_Mi439",
+      ]
+   },
    {
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
