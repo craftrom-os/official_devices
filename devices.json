@@ -18,7 +18,7 @@
       ]
    },
       {
-      "name": "Redmi 8",
+      "name": "Redmi 7A / 8 / 8A / 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
       "supported_versions": [
@@ -30,7 +30,9 @@
          }
       ],
       "repositories": [
-         "device_xiaomi_Mi439",
+         "device_xiaomi_mi439",
+         "kernel_xiaomi_mi439",
+         "vendor_xiaomi_mi439",
       ]
    },
    {
