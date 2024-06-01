@@ -14,10 +14,10 @@
       "repositories": [
          "device_xiaomi_onclite",
          "kernel_xiaomi_onclite",
-         "vendor_xiaomi_onclite",
+         "vendor_xiaomi_onclite"
       ]
    },
-      {
+   {
       "name": "Redmi 7A / 8 / 8A / 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
@@ -32,7 +32,7 @@
       "repositories": [
          "device_xiaomi_mi439",
          "kernel_xiaomi_mi439",
-         "vendor_xiaomi_mi439",
+         "vendor_xiaomi_mi439"
       ]
    },
    {
@@ -50,7 +50,7 @@
       "repositories": [
          "device_xiaomi_lavender",
          "kernel_xiaomi_lavender",
-         "vendor_xiaomi_lavender",
+         "vendor_xiaomi_lavender"
       ]
    },
    {
@@ -67,7 +67,7 @@
       "repositories": [
          "device_xiaomi_spes",
          "device_xiaomi_sm6225-common",
-         "kernel_xiaomi_sm6225",
+         "kernel_xiaomi_sm6225"
       ]
    }
 ]
