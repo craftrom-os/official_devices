@@ -3,6 +3,7 @@
       "name": "Redmi 7 / Redmi Y3",
       "brand": "Xiaomi",
       "codename": "onclite",
+      "maintainers": "melles1991",
       "supported_versions": [
          {
             "version_code": "uther",
@@ -27,6 +28,7 @@
       "name": "Redmi 7A / 8 / 8A / 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
+      "maintainers": " ",
       "supported_versions": [
          {
             "version_code": "thrall",
@@ -45,6 +47,7 @@
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
       "codename": "lavender",
+      "maintainers": "melles1991",
       "supported_versions": [
          {
             "version_code": "thrall",
@@ -63,6 +66,7 @@
       "name": "Redmi Note 11",
       "brand": "Xiaomi",
       "codename": "spes",
+      "maintainers": " ",
       "supported_versions": [
          {
             "version_code": "thrall",
