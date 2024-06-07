@@ -33,8 +33,8 @@
          {
             "version_code": "thrall",
             "xda_thread": " ",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -52,8 +52,8 @@
          {
             "version_code": "thrall",
             "xda_thread": " ",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -70,8 +70,8 @@
       "supported_versions": [
          {
             "version_code": "thrall",
-            "stable": true,
-            "deprecated": false
+            "stable": false,
+            "deprecated": true
          }
       ],
       "repositories": [
