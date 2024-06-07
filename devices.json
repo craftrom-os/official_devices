@@ -5,10 +5,16 @@
       "codename": "onclite",
       "supported_versions": [
          {
-            "version_code": "thrall",
+            "version_code": "uther",
             "xda_thread": " ",
             "stable": true,
             "deprecated": false
+         },
+       {
+            "version_code": "thrall",
+            "xda_thread": " ",
+            "stable": true,
+            "deprecated": true
          }
       ],
       "repositories": [
