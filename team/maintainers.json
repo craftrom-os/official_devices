@@ -1,18 +1,32 @@
 [
    {
-      "name": " ",
+      "name": "Dmytro Halytskyi",
       "country": "UA",
-      "github_username": " ",
-      "xda_url": " ",
-      "telegram_url": " ",
+      "github_username": "melles1991",
+      "xda_url": "",
+      "telegram_url": "@mrshterben",
       "devices": [
          {
-            "codename": " ",
+            "codename": "onclite",
             "versions": [
                "thrall"
             ]
          }
-      ],
-      "ci_username": " "
+      ]
+   },
+   {
+      "name": "",
+      "country": "UA",
+      "github_username": "GuidixX",
+      "xda_url": "",
+      "telegram_url": "@Guidixm",
+      "devices": [
+         {
+            "codename": "spes",
+            "versions": [
+               "thrall"
+            ]
+         }
+      ]
    }
 ]
