@@ -7,7 +7,7 @@
       "supported_versions": [
          {
             "version_code": "uther",
-            "xda_thread": " ",
+            "xda_thread": "https://xdaforums.com/t/rom-13-onc-onclite-craftrom-os-aosp-cros.4657552",
             "stable": false,
             "deprecated": false
          },
@@ -22,25 +22,6 @@
          "device_xiaomi_onclite",
          "kernel_xiaomi_onclite",
          "vendor_xiaomi_onclite"
-      ]
-   },
-   {
-      "name": "Redmi 7A / 8 / 8A / 8A Dual",
-      "brand": "Xiaomi",
-      "codename": "mi439",
-      "maintainers": "",
-      "supported_versions": [
-         {
-            "version_code": "thrall",
-            "xda_thread": " ",
-            "stable": false,
-            "deprecated": true
-         }
-      ],
-      "repositories": [
-         "device_xiaomi_mi439",
-         "kernel_xiaomi_mi439",
-         "vendor_xiaomi_mi439"
       ]
    },
    {
@@ -59,6 +40,44 @@
             "version_code": "thrall",
             "stable": true,
             "deprecated": true
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_lavender",
+         "kernel_xiaomi_lavender",
+         "vendor_xiaomi_lavender"
+      ]
+   },   
+   {
+      "name": "Redmi 7A / 8 / 8A / 8A Dual",
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "maintainers": "melles1991",
+      "supported_versions": [
+         {
+            "version_code": "uther",
+            "xda_thread": " ",
+            "stable": false,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_mi439",
+         "kernel_xiaomi_mi439",
+         "vendor_xiaomi_mi439"
+      ]
+   },
+   {
+      "name": "Redmi Note 10",
+      "brand": "Xiaomi",
+      "codename": "sunny",
+      "maintainers": "melles1991",
+      "supported_versions": [
+         {
+            "version_code": "uther",
+            "xda_thread": " ",
+            "stable": false,
+            "deprecated": false
          }
       ],
       "repositories": [
