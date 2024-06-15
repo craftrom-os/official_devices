@@ -54,6 +54,11 @@
             "xda_thread": " ",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "thrall",
+            "stable": true,
+            "deprecated": true
          }
       ],
       "repositories": [
@@ -72,6 +77,11 @@
             "version_code": "uther",
             "stable": true,
             "deprecated": false
+         },
+         {
+            "version_code": "thrall",
+            "stable": true,
+            "deprecated": true
          }
       ],
       "repositories": [
