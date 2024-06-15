@@ -50,10 +50,10 @@
       "maintainers": "GuidixX",
       "supported_versions": [
          {
-            "version_code": "thrall",
+            "version_code": "uther",
             "xda_thread": " ",
-            "stable": false,
-            "deprecated": true
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
@@ -69,9 +69,9 @@
       "maintainers": "GuidixX",
       "supported_versions": [
          {
-            "version_code": "thrall",
-            "stable": false,
-            "deprecated": true
+            "version_code": "uther",
+            "stable": true,
+            "deprecated": false
          }
       ],
       "repositories": [
