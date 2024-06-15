@@ -76,8 +76,8 @@
       ],
       "repositories": [
          "device_xiaomi_spes",
-         "device_xiaomi_sm6225-common",
-         "kernel_xiaomi_sm6225"
+         "vendor_xiaomi_spes",
+         "kernel_xiaomi_spes"
       ]
    }
 ]
