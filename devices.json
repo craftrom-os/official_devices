@@ -3,6 +3,10 @@
       "name": "Redmi 7 / Redmi Y3",
       "brand": "Xiaomi",
       "codename": "onclite",
+      "variant_name": [
+         "onclite",
+         "onc"
+      ],
       "maintainers": "melles1991",
       "supported_versions": [
          {
@@ -28,6 +32,9 @@
       "name": "Redmi Note 7",
       "brand": "Xiaomi",
       "codename": "lavender",
+      "variant_name": [
+         "lavender"
+      ],
       "maintainers": "GuidixX",
       "supported_versions": [
          {
@@ -52,6 +59,11 @@
       "name": "Redmi 7A / 8 / 8A / 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
+      "variant_name": [
+         "olive",
+         "olives",
+         "pine"
+      ],
       "maintainers": "melles1991",
       "supported_versions": [
          {
@@ -71,6 +83,10 @@
       "name": "Redmi Note 10",
       "brand": "Xiaomi",
       "codename": "sunny",
+      "variant_name": [
+         "sunny",
+         "mojito"
+      ],
       "maintainers": "melles1991",
       "supported_versions": [
          {
@@ -90,6 +106,10 @@
       "name": "Redmi Note 11",
       "brand": "Xiaomi",
       "codename": "spes",
+      "variant_name": [
+         "spes",
+         "spesn"
+      ],
       "maintainers": "GuidixX",
       "supported_versions": [
          {
