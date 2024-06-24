@@ -1,6 +1,6 @@
 [
    {
-      "name": "Redmi 7 / Redmi Y3",
+      "name": "Redmi 7 / Y3",
       "brand": "Xiaomi",
       "codename": "onclite",
       "variant_name": [
@@ -56,12 +56,15 @@
       ]
    },   
    {
-      "name": "Redmi 7A / 8 / 8A / 8A Dual",
+      "name": "Redmi 7A / 8 / 8A / 8A Pron/ 8A Dual",
       "brand": "Xiaomi",
       "codename": "mi439",
       "variant_name": [
+         "mi439",
          "olive",
          "olives",
+         "olivewood",
+         "olivelite",
          "pine"
       ],
       "maintainers": "melles1991",
@@ -97,9 +100,9 @@
          }
       ],
       "repositories": [
-         "device_xiaomi_lavender",
-         "kernel_xiaomi_lavender",
-         "vendor_xiaomi_lavender"
+         "device_xiaomi_sunny",
+         "kernel_xiaomi_sunny",
+         "vendor_xiaomi_sunny"
       ]
    },
    {
